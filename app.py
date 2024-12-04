@@ -8,3 +8,5 @@ elif choose_operation == "-":
     print(first_num - second_num)
 elif choose_operation == "/":
     print(first_num / second_num)
+elif choose_operation == "*":
+    print(first_num * second_num)
